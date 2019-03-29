@@ -2,6 +2,6 @@
 # Aim: 
 
 Fastai is very easy and flexible Python library for dealing with most of the ML tasks, 
-- it's basic guide for quick reference 
+- It's my quick reference on various task and related lab notebooks 
 
-#### To get basic understanding of  frequently useful task through fastai Lib way 
+#### To get basic understanding of  frequently useful task through fastai Lib  
